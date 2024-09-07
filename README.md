@@ -1,4 +1,4 @@
-1.	Requisitos previos
+Requisitos previos
 NetBeans 8.2 en adelante 
  
 Pueden presentar advertencias por incompatibilidad de versiones usando NetBeans 8.2 pero esto no afecta en nada la ejecución del programa.
